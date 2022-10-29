@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MicrosoftTeams-image.png</file>
+        <file>MyCustHead.qml</file>
+        <file>MyFooter.qml</file>
+        <file>CustButton.qml</file>
+    </qresource>
+</RCC>
